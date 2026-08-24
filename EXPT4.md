@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-08-24 112226" src="https://github.com/user-attachments/assets/98566b77-2f2c-422e-a114-b7856a1b70ed" /># Experiment No. 4: Analyze Email Headers and Detect Email Spoofing Using MHA
-
 ## Aim
 
 To analyze an email header using Mail Header Analyzer (MHA) and detect possible email spoofing by examining email routing information and authentication results.
@@ -133,6 +131,7 @@ The email header was successfully analyzed using Mail Header Analyzer, and possi
 
 Email header analysis using MHA can be used to trace the email's delivery path and identify inconsistencies that may indicate email spoofing or phishing.
 
+<img width="1920" height="1080" alt="Screenshot 2026-08-24 112226" src="https://github.com/user-attachments/assets/98566b77-2f2c-422e-a114-b7856a1b70ed" /># Experiment No. 4: Analyze Email Headers and Detect Email Spoofing Using MHA
 <img width="1920" height="1080" alt="Screenshot 2026-08-24 111717" src="https://github.com/user-attachments/assets/f406de4d-37c3-4b6e-b42d-360c23b9a0c9" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-24 112118" src="https://github.com/user-attachments/assets/06fcc906-d304-433a-92c6-65234b2ff2a7" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-24 112143" src="https://github.com/user-attachments/assets/96f14dfb-015f-4d42-b557-b34d17d30a49" />
