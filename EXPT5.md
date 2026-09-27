@@ -1,8 +1,7 @@
 # Ex. No. 5 — Use Autopsy to Create a Case and Import Evidence
 
-## Digital Forensics Lab
 
-### Aim / Description
+### Aim 
 
 **Autopsy** is an open-source digital forensics platform used for analyzing and extracting data from digital devices.
 
