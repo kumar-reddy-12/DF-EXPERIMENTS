@@ -1,6 +1,5 @@
 # Ex. No. 10 — Use Ghidra to Disassemble and Analyze Malware Code
 
-## Digital Forensics Lab
 
 ### Aim 
 
