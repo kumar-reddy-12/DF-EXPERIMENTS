@@ -1,6 +1,5 @@
 # Ex. No. 7 — Use AFLogical OSE to Extract Data from an Android Device
 
-## Digital Forensics Lab
 
 ### Aim 
 
