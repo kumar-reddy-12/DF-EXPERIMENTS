@@ -1,8 +1,7 @@
 # Ex. No. 8 — Use StegExpose to Detect Hidden Data in Images
 
-## Digital Forensics Lab
 
-### Aim / Description
+### Aim 
 
 **StegExpose** is a tool used to detect possible hidden data in images using steganography analysis.
 
