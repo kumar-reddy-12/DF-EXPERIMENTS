@@ -1,6 +1,5 @@
 # Ex. No. 6 — Use Sleuth Kit to Analyze Digital Evidence
 
-## Digital Forensics Lab
 
 ### Aim 
 
