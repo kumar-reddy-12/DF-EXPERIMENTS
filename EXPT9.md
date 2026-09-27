@@ -1,8 +1,7 @@
 # Ex. No. 9 — Use Process Explorer to Identify Suspicious Processes
 
-## Digital Forensics Lab
 
-### Aim / Description
+### Aim 
 
 **Process Explorer** is a Windows system-monitoring tool from Microsoft Sysinternals that provides detailed information about running processes.
 
